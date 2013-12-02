@@ -19,6 +19,7 @@
 		A5DE9B671825311B00A80B9B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A5DE9B4F1825311A00A80B9B /* UIKit.framework */; };
 		A5DE9B6F1825311B00A80B9B /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = A5DE9B6D1825311B00A80B9B /* InfoPlist.strings */; };
 		A5DE9B711825311B00A80B9B /* ToDoListTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A5DE9B701825311B00A80B9B /* ToDoListTests.m */; };
+		A5DE9B7B182533B400A80B9B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A5DE9B7A182533B400A80B9B /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		A5DE9B6C1825311B00A80B9B /* ToDoListTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ToDoListTests-Info.plist"; sourceTree = "<group>"; };
 		A5DE9B6E1825311B00A80B9B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		A5DE9B701825311B00A80B9B /* ToDoListTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ToDoListTests.m; sourceTree = "<group>"; };
+		A5DE9B7A182533B400A80B9B /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = ../Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 		A5DE9B511825311A00A80B9B /* ToDoList */ = {
 			isa = PBXGroup;
 			children = (
+				A5DE9B7A182533B400A80B9B /* Main.storyboard */,
 				A5DE9B5A1825311A00A80B9B /* AppDelegate.h */,
 				A5DE9B5B1825311A00A80B9B /* AppDelegate.m */,
 				A5DE9B5D1825311A00A80B9B /* Images.xcassets */,
@@ -221,6 +224,7 @@
 			files = (
 				A5DE9B561825311A00A80B9B /* InfoPlist.strings in Resources */,
 				A5DE9B5E1825311A00A80B9B /* Images.xcassets in Resources */,
+				A5DE9B7B182533B400A80B9B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
