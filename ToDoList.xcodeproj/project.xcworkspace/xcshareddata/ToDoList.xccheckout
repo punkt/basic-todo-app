@@ -5,34 +5,34 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>B9F89544-1500-4FE2-96CF-36FA208CE07B</string>
+	<string>64DD0671-39D7-4BDB-9FEA-723F1C0264D3</string>
 	<key>IDESourceControlProjectName</key>
 	<string>ToDoList</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>B2AD040F-BDC4-4D3B-9639-9C50F97D6679</key>
-		<string>https://github.com/punkt/Basic-IOS-Todo-App.git</string>
+		<key>ADBAC005-0BA2-4D67-918E-C82248A36273</key>
+		<string>https://github.com/punkt/basic-todo-app.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>ToDoList.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>B2AD040F-BDC4-4D3B-9639-9C50F97D6679</key>
+		<key>ADBAC005-0BA2-4D67-918E-C82248A36273</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/punkt/Basic-IOS-Todo-App.git</string>
+	<string>https://github.com/punkt/basic-todo-app.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>B2AD040F-BDC4-4D3B-9639-9C50F97D6679</string>
+	<string>ADBAC005-0BA2-4D67-918E-C82248A36273</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>B2AD040F-BDC4-4D3B-9639-9C50F97D6679</string>
+			<string>ADBAC005-0BA2-4D67-918E-C82248A36273</string>
 			<key>IDESourceControlWCCName</key>
 			<string>ToDoList</string>
 		</dict>
