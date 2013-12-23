@@ -6,9 +6,9 @@
 //  Copyright (c) 2013 ovidiu. All rights reserved.
 //
 
-#import "AppDelegate.h"
+#import "XYZAppDelegate.h"
 
-@implementation AppDelegate
+@implementation XYZAppDelegate
 
 
 - (void)applicationWillResignActive:(UIApplication *)application
